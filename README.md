@@ -40,3 +40,6 @@ this is where we include some basic line of codes, queries, or even some of the 
   ```SQL
   SELECT * FROM TABLE 1
   WHERE CONDITION = TRUE
+```
+
+### Data Visualization
