@@ -2,6 +2,15 @@
 
 ### Project Title: E-Commerce Sales Analysis
 
+Project Overview
+Data Sources
+Tools
+Data Cleaning & Preparation
+Exploratory Data Analysis
+Data Analysis
+Data Visualization
+
+
 ### Project Overview
 ---
 This data analysis project aims to generate insight into  sales performance of the E-commerce project over the past year. By analysis the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from insight gotten.
@@ -43,3 +52,6 @@ this is where we include some basic line of codes, queries, or even some of the 
 ```
 
 ### Data Visualization
+
+|Heading 1|Heading 2|Heading 3|
+
