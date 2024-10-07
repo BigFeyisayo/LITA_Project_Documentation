@@ -27,7 +27,7 @@ Data sources are origin or locations of data, which can be internal or external,
    3. For Visualization
 - SQL - Structured Query Language for querying of data
 - GitHub: For Portfolio building
-- Power BI
+- Power BI: For Visualization
 
 ### Data Cleaning & Preparation
 ---
@@ -35,7 +35,7 @@ In the initial phase of the data cleaning, we performed the following action,
 - Data loading & inspection
 - Handling missing variables
 - Data cleaning & formatting
- 
+  
 ### Exploratory Data Analysis
 ---
 EDA involves exploring the data to answer some questions about the data such as;
