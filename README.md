@@ -2,14 +2,23 @@
 
 ### Project Title: E-Commerce Sales Analysis
 
-Project Overview
-Data Sources
-Tools
-Data Cleaning & Preparation
-Exploratory Data Analysis
-Data Analysis
-Data Visualization
+[Project Overview](#project-overview)
 
+[Data Sources](#data-sources)
+
+[Tools](#tools)
+
+[Data Cleaning & Preparation](#data-cleaning-&-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Creating Tables](#creating-tables)
+
+[Side Attractions & Extra Paparazzi](side-attractions-&-extra-paparazi)
 
 ### Project Overview
 ---
@@ -55,7 +64,17 @@ this is where we include some basic line of codes, queries, or even some of the 
 ---
 ![Screenshot (1)](https://github.com/user-attachments/assets/6124a197-8d2f-46ff-997c-6d9d33f85602)
 
-## Extrazzzz
+### Creating Tables
+---
 
 |Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
+
+#### Side Attractionzz & Extra Paparazzzziiiiiizzzzzzzzz 
+
+😝 👩‍💻 🥵
+
+
+
 
