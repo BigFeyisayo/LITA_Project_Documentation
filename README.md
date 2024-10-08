@@ -52,6 +52,10 @@ this is where we include some basic line of codes, queries, or even some of the 
 ```
 
 ### Data Visualization
+---
+![Screenshot (1)](https://github.com/user-attachments/assets/6124a197-8d2f-46ff-997c-6d9d33f85602)
+
+##Extrazzzz
 
 |Heading 1|Heading 2|Heading 3|
 
